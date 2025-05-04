@@ -1,0 +1,4519 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Argentina",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 60
+            },
+            {
+              "name": "Climate Action",
+              "value": 10
+            },
+            {
+              "name": "Public Policy",
+              "value": 10
+            },
+            {
+              "name": "Social Equity",
+              "value": 10
+            },
+            {
+              "name": "DEI",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 90
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 30
+            },
+            {
+              "name": "SDG-17",
+              "value": 10
+            },
+            {
+              "name": "SDG-8",
+              "value": 20
+            },
+            {
+              "name": "SDG-7",
+              "value": 10
+            },
+            {
+              "name": "SDG-13",
+              "value": 10
+            },
+            {
+              "name": "SDG-16",
+              "value": 10
+            },
+            {
+              "name": "SDG-5",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 60
+            },
+            {
+              "name": "SMEs",
+              "value": 20
+            },
+            {
+              "name": "Gender Groups",
+              "value": 10
+            },
+            {
+              "name": "Professionals",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "DEI",
+              "value": 14.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 28.6
+            },
+            {
+              "name": "Businesses",
+              "value": 28.5
+            },
+            {
+              "name": "Recognition",
+              "value": 14.3
+            },
+            {
+              "name": "Climate Action",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 57.1
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 28.6
+            },
+            {
+              "name": "Collaboration",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-8",
+              "value": 28.6
+            },
+            {
+              "name": "SDG-17",
+              "value": 14.3
+            },
+            {
+              "name": "SDG-12",
+              "value": 42.8
+            },
+            {
+              "name": "SDG-13",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 57.1
+            },
+            {
+              "name": "Professionals",
+              "value": 14.3
+            },
+            {
+              "name": "SMEs",
+              "value": 28.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 50
+            },
+            {
+              "name": "Climate Action",
+              "value": 25
+            },
+            {
+              "name": "Public Policy",
+              "value": 12.5
+            },
+            {
+              "name": "SD",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 37.5
+            },
+            {
+              "name": "Capacity-building",
+              "value": 62.5
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 62.5
+            },
+            {
+              "name": "SDG-17",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-5",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-12",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 37.5
+            },
+            {
+              "name": "SMEs",
+              "value": 25
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 12.5
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 12.5
+            },
+            {
+              "name": "Gender Groups",
+              "value": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 33.3
+            },
+            {
+              "name": "Agriculture",
+              "value": 16.7
+            },
+            {
+              "name": "Education",
+              "value": 16.7
+            },
+            {
+              "name": "Technology",
+              "value": 16.7
+            },
+            {
+              "name": "Biodiversity",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "R&D",
+              "value": 16.7
+            },
+            {
+              "name": "Capacity-building",
+              "value": 33.3
+            },
+            {
+              "name": "Sustainability",
+              "value": 16.7
+            },
+            {
+              "name": "Collaboration",
+              "value": 16.7
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-2",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-12",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-11",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-4",
+              "value": 16.6
+            },
+            {
+              "name": "SDG-15",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 50
+            },
+            {
+              "name": "Youth and Students",
+              "value": 33.3
+            },
+            {
+              "name": "Citizens",
+              "value": 16.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Finance",
+              "value": 11.1
+            },
+            {
+              "name": "Businesses",
+              "value": 66.7
+            },
+            {
+              "name": "Climate Action",
+              "value": 11.1
+            },
+            {
+              "name": "Infrastructure",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 33.4
+            },
+            {
+              "name": "Capacity-building",
+              "value": 33.3
+            },
+            {
+              "name": "R&D",
+              "value": 11.1
+            },
+            {
+              "name": "Guidelines",
+              "value": 11.1
+            },
+            {
+              "name": "Collaboration",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-16",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-17",
+              "value": 33.4
+            },
+            {
+              "name": "SDG-12",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-9",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-13",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Biodiversity",
+              "value": 13.6
+            },
+            {
+              "name": "Climate Action",
+              "value": 4.6
+            },
+            {
+              "name": "Businesses",
+              "value": 36.4
+            },
+            {
+              "name": "Social Equity",
+              "value": 9.1
+            },
+            {
+              "name": "Circular Economy",
+              "value": 9.1
+            },
+            {
+              "name": "Public Policy",
+              "value": 9.1
+            },
+            {
+              "name": "Recognition",
+              "value": 9.1
+            },
+            {
+              "name": "Education",
+              "value": 4.5
+            },
+            {
+              "name": "Energy",
+              "value": 4.5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 36.4
+            },
+            {
+              "name": "Capacity-building",
+              "value": 40.9
+            },
+            {
+              "name": "Advocacy",
+              "value": 13.6
+            },
+            {
+              "name": "Recognition",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 40.9
+            },
+            {
+              "name": "SDG-13",
+              "value": 18.2
+            },
+            {
+              "name": "SDG-16",
+              "value": 18.2
+            },
+            {
+              "name": "SDG-8",
+              "value": 9.1
+            },
+            {
+              "name": "SDG-15",
+              "value": 9.1
+            },
+            {
+              "name": "SDG-17",
+              "value": 4.5
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 77.3
+            },
+            {
+              "name": "Youth and Students",
+              "value": 9.1
+            },
+            {
+              "name": "Social Groups",
+              "value": 4.5
+            },
+            {
+              "name": "SMEs",
+              "value": 9.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Croatia",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 35.3
+            },
+            {
+              "name": "Social Equity",
+              "value": 11.8
+            },
+            {
+              "name": "Energy",
+              "value": 3.5
+            },
+            {
+              "name": "Biodiversity",
+              "value": 1.2
+            },
+            {
+              "name": "Infrastructure",
+              "value": 2.3
+            },
+            {
+              "name": "Circular Economy",
+              "value": 2.3
+            },
+            {
+              "name": "DEI",
+              "value": 25.9
+            },
+            {
+              "name": "Finance",
+              "value": 1.2
+            },
+            {
+              "name": "Technology",
+              "value": 2.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 5.9
+            },
+            {
+              "name": "SD",
+              "value": 1.2
+            },
+            {
+              "name": "Recognition",
+              "value": 1.2
+            },
+            {
+              "name": "Agriculture",
+              "value": 1.2
+            },
+            {
+              "name": "Education",
+              "value": 4.7
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 55.3
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 20
+            },
+            {
+              "name": "Advocacy",
+              "value": 16.5
+            },
+            {
+              "name": "Collaboration",
+              "value": 1.2
+            },
+            {
+              "name": "Recognition",
+              "value": 3.5
+            },
+            {
+              "name": "Awareness",
+              "value": 1.2
+            },
+            {
+              "name": "R&D",
+              "value": 2.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-4",
+              "value": 10.6
+            },
+            {
+              "name": "SDG-5",
+              "value": 12.9
+            },
+            {
+              "name": "SDG-7",
+              "value": 2.4
+            },
+            {
+              "name": "SDG-12",
+              "value": 17.6
+            },
+            {
+              "name": "SDG-8",
+              "value": 16.5
+            },
+            {
+              "name": "SDG-13",
+              "value": 4.7
+            },
+            {
+              "name": "SDG-11",
+              "value": 2.3
+            },
+            {
+              "name": "SDG-10",
+              "value": 11.8
+            },
+            {
+              "name": "SDG-17",
+              "value": 10.6
+            },
+            {
+              "name": "SDG-9",
+              "value": 2.3
+            },
+            {
+              "name": "SDG-16",
+              "value": 4.7
+            },
+            {
+              "name": "SDG-14",
+              "value": 1.2
+            },
+            {
+              "name": "SDG-2",
+              "value": 1.2
+            },
+            {
+              "name": "SDG-3",
+              "value": 1.2
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "SMEs",
+              "value": 22.4
+            },
+            {
+              "name": "Professionals",
+              "value": 7.1
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 16.5
+            },
+            {
+              "name": "Corporations",
+              "value": 32.9
+            },
+            {
+              "name": "Citizens",
+              "value": 4.7
+            },
+            {
+              "name": "Social Groups",
+              "value": 2.3
+            },
+            {
+              "name": "Gender Groups",
+              "value": 10.6
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 1.2
+            },
+            {
+              "name": "Youth and Students",
+              "value": 2.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CzechRepublic",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Energy",
+              "value": 60
+            },
+            {
+              "name": "Agriculture",
+              "value": 10
+            },
+            {
+              "name": "Education",
+              "value": 10
+            },
+            {
+              "name": "Businesses",
+              "value": 10
+            },
+            {
+              "name": "Finance",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "R&D",
+              "value": 20
+            },
+            {
+              "name": "Capacity-building",
+              "value": 70
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-7",
+              "value": 60
+            },
+            {
+              "name": "SDG-12",
+              "value": 10
+            },
+            {
+              "name": "SDG-4",
+              "value": 10
+            },
+            {
+              "name": "SDG-17",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "SMEs",
+              "value": 20
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 10
+            },
+            {
+              "name": "Professionals",
+              "value": 10
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 50
+            },
+            {
+              "name": "Corporations",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Climate Action",
+              "value": 25
+            },
+            {
+              "name": "Infrastructure",
+              "value": 15
+            },
+            {
+              "name": "Education",
+              "value": 5
+            },
+            {
+              "name": "Businesses",
+              "value": 10
+            },
+            {
+              "name": "Lifestyle",
+              "value": 5
+            },
+            {
+              "name": "Public Policy",
+              "value": 10
+            },
+            {
+              "name": "Energy",
+              "value": 15
+            },
+            {
+              "name": "Agriculture",
+              "value": 10
+            },
+            {
+              "name": "Community Engage",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 50
+            },
+            {
+              "name": "Capacity-building",
+              "value": 45
+            },
+            {
+              "name": "R&D",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 50
+            },
+            {
+              "name": "SDG-11",
+              "value": 15
+            },
+            {
+              "name": "SDG-15",
+              "value": 5
+            },
+            {
+              "name": "SDG-4",
+              "value": 10
+            },
+            {
+              "name": "SDG-8",
+              "value": 5
+            },
+            {
+              "name": "SDG-7",
+              "value": 5
+            },
+            {
+              "name": "SDG-2",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 30
+            },
+            {
+              "name": "Citizens",
+              "value": 10
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 15
+            },
+            {
+              "name": "Social Groups",
+              "value": 5
+            },
+            {
+              "name": "SMEs",
+              "value": 10
+            },
+            {
+              "name": "Youth and Students",
+              "value": 20
+            },
+            {
+              "name": "Corporations",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Equador",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Social Equity",
+              "value": 10
+            },
+            {
+              "name": "SD",
+              "value": 10
+            },
+            {
+              "name": "Businesses",
+              "value": 30
+            },
+            {
+              "name": "Energy",
+              "value": 10
+            },
+            {
+              "name": "Recognition",
+              "value": 10
+            },
+            {
+              "name": "Agriculture",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Direct service",
+              "value": 20
+            },
+            {
+              "name": "Capacity-building",
+              "value": 40
+            },
+            {
+              "name": "Sustainability",
+              "value": 10
+            },
+            {
+              "name": "Certification",
+              "value": 10
+            },
+            {
+              "name": "Exporting",
+              "value": 10
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-3",
+              "value": 10
+            },
+            {
+              "name": "SDG-1",
+              "value": 10
+            },
+            {
+              "name": "SDG-4",
+              "value": 10
+            },
+            {
+              "name": "SDG-12",
+              "value": 20
+            },
+            {
+              "name": "SDG-9",
+              "value": 10
+            },
+            {
+              "name": "SDG-2",
+              "value": 30
+            },
+            {
+              "name": "SDG-15",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 20
+            },
+            {
+              "name": "Citizens",
+              "value": 10
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 10
+            },
+            {
+              "name": "SMEs",
+              "value": 20
+            },
+            {
+              "name": "Corporations",
+              "value": 20
+            },
+            {
+              "name": "Professionals",
+              "value": 10
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 50
+            },
+            {
+              "name": "SDG-16",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 50
+            },
+            {
+              "name": "SMEs",
+              "value": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 28.5
+            },
+            {
+              "name": "Climate Action",
+              "value": 14.3
+            },
+            {
+              "name": "Education",
+              "value": 14.3
+            },
+            {
+              "name": "Finance",
+              "value": 14.3
+            },
+            {
+              "name": "Recognition",
+              "value": 14.3
+            },
+            {
+              "name": "Social Equity",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 28.6
+            },
+            {
+              "name": "Capacity-building",
+              "value": 71.4
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-17",
+              "value": 28.6
+            },
+            {
+              "name": "SDG-13",
+              "value": 14.3
+            },
+            {
+              "name": "SDG-12",
+              "value": 28.5
+            },
+            {
+              "name": "SDG-9",
+              "value": 14.3
+            },
+            {
+              "name": "SDG-16",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 14.3
+            },
+            {
+              "name": "Corporations",
+              "value": 71.4
+            },
+            {
+              "name": "SMEs",
+              "value": 14.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Public Policy",
+              "value": 60
+            },
+            {
+              "name": "DEI",
+              "value": 20
+            },
+            {
+              "name": "Technology",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Collaboration",
+              "value": 20
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 40
+            },
+            {
+              "name": "Capacity-building",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-17",
+              "value": 20
+            },
+            {
+              "name": "SDG-8",
+              "value": 60
+            },
+            {
+              "name": "SDG-9",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "SMEs",
+              "value": 40
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 20
+            },
+            {
+              "name": "Citizens",
+              "value": 20
+            },
+            {
+              "name": "Corporations",
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guatemala",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Social Equity",
+              "value": 28.6
+            },
+            {
+              "name": "DEI",
+              "value": 14.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 14.3
+            },
+            {
+              "name": "Businesses",
+              "value": 28.5
+            },
+            {
+              "name": "Education",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-5",
+              "value": 42.8
+            },
+            {
+              "name": "SDG-12",
+              "value": 28.6
+            },
+            {
+              "name": "SDG-8",
+              "value": 28.6
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Gender Groups",
+              "value": 42.8
+            },
+            {
+              "name": "Professionals",
+              "value": 28.6
+            },
+            {
+              "name": "SMEs",
+              "value": 28.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Honduras",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Recognition",
+              "value": 4.1
+            },
+            {
+              "name": "Businesses",
+              "value": 6.1
+            },
+            {
+              "name": "Education",
+              "value": 32.7
+            },
+            {
+              "name": "Biodiversity",
+              "value": 10.2
+            },
+            {
+              "name": "Social Equity",
+              "value": 22.5
+            },
+            {
+              "name": "Technology",
+              "value": 4.1
+            },
+            {
+              "name": "Community Engage",
+              "value": 12.2
+            },
+            {
+              "name": "Agriculture",
+              "value": 2
+            },
+            {
+              "name": "Energy",
+              "value": 2
+            },
+            {
+              "name": "DEI",
+              "value": 4.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Certification",
+              "value": 2.1
+            },
+            {
+              "name": "Branding",
+              "value": 2.1
+            },
+            {
+              "name": "Donation",
+              "value": 2.1
+            },
+            {
+              "name": "Direct service",
+              "value": 28.6
+            },
+            {
+              "name": "Capacity-building",
+              "value": 55.1
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 2
+            },
+            {
+              "name": "Financing",
+              "value": 2
+            },
+            {
+              "name": "Volunteering",
+              "value": 2
+            },
+            {
+              "name": "Awareness",
+              "value": 2
+            },
+            {
+              "name": "Advocacy",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 10.2
+            },
+            {
+              "name": "SDG-16",
+              "value": 4.1
+            },
+            {
+              "name": "SDG-4",
+              "value": 36.7
+            },
+            {
+              "name": "SDG-15",
+              "value": 4.1
+            },
+            {
+              "name": "SDG-5",
+              "value": 10.2
+            },
+            {
+              "name": "SDG-6",
+              "value": 4.1
+            },
+            {
+              "name": "SDG-3",
+              "value": 8.2
+            },
+            {
+              "name": "SDG-8",
+              "value": 8.2
+            },
+            {
+              "name": "SDG-2",
+              "value": 4.1
+            },
+            {
+              "name": "SDG-7",
+              "value": 2
+            },
+            {
+              "name": "SDG-11",
+              "value": 2
+            },
+            {
+              "name": "SDG-10",
+              "value": 4.1
+            },
+            {
+              "name": "SDG-1",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 8.2
+            },
+            {
+              "name": "Citizens",
+              "value": 8.2
+            },
+            {
+              "name": "Social Groups",
+              "value": 12.2
+            },
+            {
+              "name": "Youth and Students",
+              "value": 42.9
+            },
+            {
+              "name": "Gender Groups",
+              "value": 10.2
+            },
+            {
+              "name": "Professionals",
+              "value": 12.2
+            },
+            {
+              "name": "SMEs",
+              "value": 2
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 4.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HongKong",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Finance",
+              "value": 1.9
+            },
+            {
+              "name": "Businesses",
+              "value": 19.1
+            },
+            {
+              "name": "Recognition",
+              "value": 5.1
+            },
+            {
+              "name": "Energy",
+              "value": 11.5
+            },
+            {
+              "name": "Climate Action",
+              "value": 19.7
+            },
+            {
+              "name": "Infrastructure",
+              "value": 12.1
+            },
+            {
+              "name": "Biodiversity",
+              "value": 6.4
+            },
+            {
+              "name": "Technology",
+              "value": 1.3
+            },
+            {
+              "name": "Community Engage",
+              "value": 2.5
+            },
+            {
+              "name": "Social Equity",
+              "value": 0.6
+            },
+            {
+              "name": "Education",
+              "value": 4.5
+            },
+            {
+              "name": "Public Policy",
+              "value": 8.3
+            },
+            {
+              "name": "Circular Economy",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 45.9
+            },
+            {
+              "name": "Collaboration",
+              "value": 2.6
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 40.1
+            },
+            {
+              "name": "R&D",
+              "value": 1.3
+            },
+            {
+              "name": "Advocacy",
+              "value": 6.4
+            },
+            {
+              "name": "Recognition",
+              "value": 0.6
+            },
+            {
+              "name": "Leadership",
+              "value": 0.6
+            },
+            {
+              "name": "Awareness",
+              "value": 1.3
+            },
+            {
+              "name": "Networking",
+              "value": 0.6
+            },
+            {
+              "name": "Certification",
+              "value": 0.6
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 48.4
+            },
+            {
+              "name": "SDG-11",
+              "value": 19.8
+            },
+            {
+              "name": "SDG-8",
+              "value": 1.9
+            },
+            {
+              "name": "SDG-17",
+              "value": 5.7
+            },
+            {
+              "name": "SDG-3",
+              "value": 0.6
+            },
+            {
+              "name": "SDG-12",
+              "value": 17.2
+            },
+            {
+              "name": "SDG-7",
+              "value": 3.2
+            },
+            {
+              "name": "SDG-15",
+              "value": 0.6
+            },
+            {
+              "name": "SDG-4",
+              "value": 1.3
+            },
+            {
+              "name": "SDG-9",
+              "value": 1.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 47.1
+            },
+            {
+              "name": "Social Groups",
+              "value": 3.8
+            },
+            {
+              "name": "Youth and Students",
+              "value": 8.3
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 28
+            },
+            {
+              "name": "SMEs",
+              "value": 7.7
+            },
+            {
+              "name": "Citizens",
+              "value": 3.8
+            },
+            {
+              "name": "Professionals",
+              "value": 0.7
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hungary",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Climate Action",
+              "value": 27.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 9.1
+            },
+            {
+              "name": "Businesses",
+              "value": 36.3
+            },
+            {
+              "name": "Circular Economy",
+              "value": 9.1
+            },
+            {
+              "name": "Education",
+              "value": 9.1
+            },
+            {
+              "name": "Biodiversity",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 72.7
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 18.2
+            },
+            {
+              "name": "Advocacy",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 36.4
+            },
+            {
+              "name": "SDG-12",
+              "value": 54.5
+            },
+            {
+              "name": "SDG-11",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 45.4
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 18.2
+            },
+            {
+              "name": "SMEs",
+              "value": 18.2
+            },
+            {
+              "name": "Citizens",
+              "value": 18.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Climate Action",
+              "value": 50
+            },
+            {
+              "name": "Businesses",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 22.2
+            },
+            {
+              "name": "Agriculture",
+              "value": 44.5
+            },
+            {
+              "name": "Climate Action",
+              "value": 11.1
+            },
+            {
+              "name": "Circular Economy",
+              "value": 11.1
+            },
+            {
+              "name": "Public Policy",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 11.1
+            },
+            {
+              "name": "Capacity-building",
+              "value": 44.5
+            },
+            {
+              "name": "Advocacy",
+              "value": 11.1
+            },
+            {
+              "name": "Collaboration",
+              "value": 11.1
+            },
+            {
+              "name": "R&D",
+              "value": 22.2
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-17",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-12",
+              "value": 66.7
+            },
+            {
+              "name": "SDG-13",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-15",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Enviro & Agri",
+              "value": 33.4
+            },
+            {
+              "name": "Corporations",
+              "value": 33.3
+            },
+            {
+              "name": "Citizens",
+              "value": 11.1
+            },
+            {
+              "name": "SMEs",
+              "value": 11.1
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 11.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Education",
+              "value": 33.4
+            },
+            {
+              "name": "Community Engage",
+              "value": 22.2
+            },
+            {
+              "name": "Businesses",
+              "value": 22.2
+            },
+            {
+              "name": "Public Policy",
+              "value": 11.1
+            },
+            {
+              "name": "Social Equity",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 77.8
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 11.1
+            },
+            {
+              "name": "Mentorship",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-4",
+              "value": 55.6
+            },
+            {
+              "name": "SDG-13",
+              "value": 22.2
+            },
+            {
+              "name": "SDG-12",
+              "value": 11.1
+            },
+            {
+              "name": "SDG-5",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Professionals",
+              "value": 11.1
+            },
+            {
+              "name": "Youth and Students",
+              "value": 44.5
+            },
+            {
+              "name": "Corporations",
+              "value": 11.1
+            },
+            {
+              "name": "SMEs",
+              "value": 22.2
+            },
+            {
+              "name": "Gender Groups",
+              "value": 11.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 40
+            },
+            {
+              "name": "Social Equity",
+              "value": 30
+            },
+            {
+              "name": "DEI",
+              "value": 10
+            },
+            {
+              "name": "Finance",
+              "value": 10
+            },
+            {
+              "name": "Community Engage",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 60
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 20
+            },
+            {
+              "name": "R&D",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 30
+            },
+            {
+              "name": "SDG-16",
+              "value": 10
+            },
+            {
+              "name": "SDG-3",
+              "value": 10
+            },
+            {
+              "name": "SDG-10",
+              "value": 10
+            },
+            {
+              "name": "SDG-17",
+              "value": 10
+            },
+            {
+              "name": "SDG-8",
+              "value": 20
+            },
+            {
+              "name": "SDG-6",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 80
+            },
+            {
+              "name": "Professionals",
+              "value": 10
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Education",
+              "value": 42.8
+            },
+            {
+              "name": "Social Equity",
+              "value": 14.3
+            },
+            {
+              "name": "Recognition",
+              "value": 14.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 28.6
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 85.7
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-4",
+              "value": 28.6
+            },
+            {
+              "name": "SDG-8",
+              "value": 28.5
+            },
+            {
+              "name": "SDG-13",
+              "value": 14.3
+            },
+            {
+              "name": "SDG-11",
+              "value": 14.3
+            },
+            {
+              "name": "SDG-17",
+              "value": 14.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "SMEs",
+              "value": 42.8
+            },
+            {
+              "name": "Corporations",
+              "value": 14.3
+            },
+            {
+              "name": "Youth and Students",
+              "value": 14.3
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 14.3
+            },
+            {
+              "name": "Citizens",
+              "value": 14.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Technology",
+              "value": 33.4
+            },
+            {
+              "name": "Infrastructure",
+              "value": 33.3
+            },
+            {
+              "name": "Businesses",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-9",
+              "value": 66.7
+            },
+            {
+              "name": "SDG-8",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Professionals",
+              "value": 33.4
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 33.3
+            },
+            {
+              "name": "Corporations",
+              "value": 33.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kazakhstan",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Public Policy",
+              "value": 33.4
+            },
+            {
+              "name": "Education",
+              "value": 33.3
+            },
+            {
+              "name": "Recognition",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 33.3
+            },
+            {
+              "name": "Capacity-building",
+              "value": 66.7
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 33.3
+            },
+            {
+              "name": "SDG-9",
+              "value": 66.7
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 33.3
+            },
+            {
+              "name": "SMEs",
+              "value": 66.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Social Equity",
+              "value": 16.7
+            },
+            {
+              "name": "Circular Economy",
+              "value": 16.7
+            },
+            {
+              "name": "Recognition",
+              "value": 8.3
+            },
+            {
+              "name": "Climate Action",
+              "value": 25
+            },
+            {
+              "name": "Biodiversity",
+              "value": 8.3
+            },
+            {
+              "name": "Public Policy",
+              "value": 16.7
+            },
+            {
+              "name": "Businesses",
+              "value": 8.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Advocacy",
+              "value": 8.4
+            },
+            {
+              "name": "Capacity-building",
+              "value": 58.3
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 66.6
+            },
+            {
+              "name": "SDG-12",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-17",
+              "value": 16.7
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 25
+            },
+            {
+              "name": "Social Groups",
+              "value": 16.7
+            },
+            {
+              "name": "Corporations",
+              "value": 41.7
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 16.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 62.5
+            },
+            {
+              "name": "Agriculture",
+              "value": 25
+            },
+            {
+              "name": "Circular Economy",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "R&D",
+              "value": 25
+            },
+            {
+              "name": "Capacity-building",
+              "value": 62.5
+            },
+            {
+              "name": "Collaboration",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 75
+            },
+            {
+              "name": "SDG-8",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Citizens",
+              "value": 12.5
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 50
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 12.5
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 12.5
+            },
+            {
+              "name": "Corporations",
+              "value": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NewZealand",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 66.7
+            },
+            {
+              "name": "Energy",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 66.7
+            },
+            {
+              "name": "R&D",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 33.4
+            },
+            {
+              "name": "SDG-12",
+              "value": 33.3
+            },
+            {
+              "name": "SDG-7",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Social Groups",
+              "value": 33.4
+            },
+            {
+              "name": "Citizens",
+              "value": 33.3
+            },
+            {
+              "name": "Corporations",
+              "value": 33.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Public Policy",
+              "value": 8.4
+            },
+            {
+              "name": "Businesses",
+              "value": 33.3
+            },
+            {
+              "name": "Community Engage",
+              "value": 16.7
+            },
+            {
+              "name": "Recognition",
+              "value": 8.3
+            },
+            {
+              "name": "Energy",
+              "value": 16.7
+            },
+            {
+              "name": "Education",
+              "value": 8.3
+            },
+            {
+              "name": "Technology",
+              "value": 8.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 50
+            },
+            {
+              "name": "Advocacy",
+              "value": 16.7
+            },
+            {
+              "name": "Capacity-building",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-16",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-4",
+              "value": 8.4
+            },
+            {
+              "name": "SDG-12",
+              "value": 25
+            },
+            {
+              "name": "SDG-7",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-1",
+              "value": 8.3
+            },
+            {
+              "name": "SDG-14",
+              "value": 8.3
+            },
+            {
+              "name": "SDG-9",
+              "value": 8.3
+            },
+            {
+              "name": "SDG-17",
+              "value": 8.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 33.3
+            },
+            {
+              "name": "Youth and Students",
+              "value": 8.4
+            },
+            {
+              "name": "Social Groups",
+              "value": 8.4
+            },
+            {
+              "name": "Corporations",
+              "value": 25
+            },
+            {
+              "name": "SMEs",
+              "value": 8.3
+            },
+            {
+              "name": "Professionals",
+              "value": 8.3
+            },
+            {
+              "name": "Citizens",
+              "value": 8.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Public Policy",
+              "value": 30
+            },
+            {
+              "name": "Education",
+              "value": 10
+            },
+            {
+              "name": "Finance",
+              "value": 10
+            },
+            {
+              "name": "Recognition",
+              "value": 10
+            },
+            {
+              "name": "Social Equity",
+              "value": 30
+            },
+            {
+              "name": "Infrastructure",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 50
+            },
+            {
+              "name": "R&D",
+              "value": 10
+            },
+            {
+              "name": "Capacity-building",
+              "value": 20
+            },
+            {
+              "name": "Mediation",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-4",
+              "value": 20
+            },
+            {
+              "name": "SDG-8",
+              "value": 70
+            },
+            {
+              "name": "SDG-17",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 20
+            },
+            {
+              "name": "SMEs",
+              "value": 30
+            },
+            {
+              "name": "Corporations",
+              "value": 20
+            },
+            {
+              "name": "Professionals",
+              "value": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Panama",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Social Equity",
+              "value": 26.7
+            },
+            {
+              "name": "Circular Economy",
+              "value": 13.3
+            },
+            {
+              "name": "Biodiversity",
+              "value": 6.7
+            },
+            {
+              "name": "DEI",
+              "value": 13.3
+            },
+            {
+              "name": "Community Engage",
+              "value": 13.3
+            },
+            {
+              "name": "Education",
+              "value": 6.7
+            },
+            {
+              "name": "Finance",
+              "value": 6.7
+            },
+            {
+              "name": "Energy",
+              "value": 6.7
+            },
+            {
+              "name": "Businesses",
+              "value": 6.6
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 60
+            },
+            {
+              "name": "Awareness",
+              "value": 6.7
+            },
+            {
+              "name": "Connectivity",
+              "value": 6.7
+            },
+            {
+              "name": "Empowerment",
+              "value": 6.7
+            },
+            {
+              "name": "Recycling",
+              "value": 6.6
+            },
+            {
+              "name": "Sustainability",
+              "value": 13.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 13.3
+            },
+            {
+              "name": "SDG-12",
+              "value": 20
+            },
+            {
+              "name": "SDG-3",
+              "value": 13.3
+            },
+            {
+              "name": "SDG-10",
+              "value": 13.3
+            },
+            {
+              "name": "SDG-5",
+              "value": 6.7
+            },
+            {
+              "name": "SDG-8",
+              "value": 20
+            },
+            {
+              "name": "SDG-4",
+              "value": 6.7
+            },
+            {
+              "name": "SDG-7",
+              "value": 6.7
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 6.7
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 6.7
+            },
+            {
+              "name": "Citizens",
+              "value": 13.3
+            },
+            {
+              "name": "Gender Groups",
+              "value": 6.7
+            },
+            {
+              "name": "Professionals",
+              "value": 6.7
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 13.3
+            },
+            {
+              "name": "Social Groups",
+              "value": 26.7
+            },
+            {
+              "name": "SMEs",
+              "value": 6.6
+            },
+            {
+              "name": "Corporations",
+              "value": 13.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 33.3
+            },
+            {
+              "name": "Finance",
+              "value": 66.7
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 33.4
+            },
+            {
+              "name": "Finance",
+              "value": 33.3
+            },
+            {
+              "name": "Capacity-building",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-15",
+              "value": 33.4
+            },
+            {
+              "name": "SDG-6",
+              "value": 33.3
+            },
+            {
+              "name": "SDG-12",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Social Groups",
+              "value": 33.4
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 33.3
+            },
+            {
+              "name": "Professionals",
+              "value": 33.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Education",
+              "value": 16.7
+            },
+            {
+              "name": "Businesses",
+              "value": 66.6
+            },
+            {
+              "name": "Energy",
+              "value": 16.7
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 50
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 33.3
+            },
+            {
+              "name": "Advocacy",
+              "value": 16.7
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-5",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-16",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-12",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-15",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-17",
+              "value": 16.6
+            },
+            {
+              "name": "SDG-7",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 66.6
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 16.7
+            },
+            {
+              "name": "Social Groups",
+              "value": 16.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 40
+            },
+            {
+              "name": "Public Policy",
+              "value": 20
+            },
+            {
+              "name": "Biodiversity",
+              "value": 30
+            },
+            {
+              "name": "Social Equity",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 50
+            },
+            {
+              "name": "Advocacy",
+              "value": 10
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-9",
+              "value": 10
+            },
+            {
+              "name": "SDG-17",
+              "value": 30
+            },
+            {
+              "name": "SDG-16",
+              "value": 10
+            },
+            {
+              "name": "SDG-10",
+              "value": 10
+            },
+            {
+              "name": "SDG-15",
+              "value": 30
+            },
+            {
+              "name": "SDG-13",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 60
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 20
+            },
+            {
+              "name": "SMEs",
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Education",
+              "value": 25
+            },
+            {
+              "name": "Public Policy",
+              "value": 12.5
+            },
+            {
+              "name": "DEI",
+              "value": 12.5
+            },
+            {
+              "name": "Businesses",
+              "value": 25
+            },
+            {
+              "name": "Climate Action",
+              "value": 12.5
+            },
+            {
+              "name": "Community Engage",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Advocacy",
+              "value": 37.5
+            },
+            {
+              "name": "Capacity-building",
+              "value": 37.5
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-1",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-12",
+              "value": 37.5
+            },
+            {
+              "name": "SDG-10",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-13",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-15",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-4",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Citizens",
+              "value": 37.5
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 12.5
+            },
+            {
+              "name": "Corporations",
+              "value": 37.5
+            },
+            {
+              "name": "Social Groups",
+              "value": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SouthAfrica",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 6.7
+            },
+            {
+              "name": "Climate Action",
+              "value": 46.6
+            },
+            {
+              "name": "Finance",
+              "value": 13.3
+            },
+            {
+              "name": "Technology",
+              "value": 6.7
+            },
+            {
+              "name": "Recognition",
+              "value": 6.7
+            },
+            {
+              "name": "Education",
+              "value": 6.7
+            },
+            {
+              "name": "Social Equity",
+              "value": 13.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 33.4
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 33.3
+            },
+            {
+              "name": "R&D",
+              "value": 33.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-8",
+              "value": 13.3
+            },
+            {
+              "name": "SDG-13",
+              "value": 60
+            },
+            {
+              "name": "SDG-10",
+              "value": 6.7
+            },
+            {
+              "name": "SDG-17",
+              "value": 6.7
+            },
+            {
+              "name": "SDG-5",
+              "value": 6.7
+            },
+            {
+              "name": "SDG-16",
+              "value": 6.6
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 6.7
+            },
+            {
+              "name": "Corporations",
+              "value": 26.7
+            },
+            {
+              "name": "SMEs",
+              "value": 13.3
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 20
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 13.3
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 6.7
+            },
+            {
+              "name": "Social Groups",
+              "value": 6.7
+            },
+            {
+              "name": "Gender Groups",
+              "value": 6.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 40
+            },
+            {
+              "name": "Biodiversity",
+              "value": 15
+            },
+            {
+              "name": "Education",
+              "value": 10
+            },
+            {
+              "name": "Social Equity",
+              "value": 5
+            },
+            {
+              "name": "Infrastructure",
+              "value": 5
+            },
+            {
+              "name": "Climate Action",
+              "value": 5
+            },
+            {
+              "name": "Public Policy",
+              "value": 15
+            },
+            {
+              "name": "DEI",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Collaboration",
+              "value": 10
+            },
+            {
+              "name": "Capacity-building",
+              "value": 50
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 35
+            },
+            {
+              "name": "Partnerships",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-3",
+              "value": 15
+            },
+            {
+              "name": "SDG-15",
+              "value": 10
+            },
+            {
+              "name": "SDG-12",
+              "value": 30
+            },
+            {
+              "name": "SDG-13",
+              "value": 25
+            },
+            {
+              "name": "SDG-17",
+              "value": 10
+            },
+            {
+              "name": "SDG-11",
+              "value": 5
+            },
+            {
+              "name": "SDG-10",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Citizens",
+              "value": 15
+            },
+            {
+              "name": "Corporations",
+              "value": 75
+            },
+            {
+              "name": "SMEs",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 40
+            },
+            {
+              "name": "Circular Economy",
+              "value": 20
+            },
+            {
+              "name": "Education",
+              "value": 20
+            },
+            {
+              "name": "Infrastructure",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Networking",
+              "value": 20
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 40
+            },
+            {
+              "name": "Capacity-building",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-12",
+              "value": 60
+            },
+            {
+              "name": "SDG-13",
+              "value": 20
+            },
+            {
+              "name": "SDG-11",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Corporations",
+              "value": 80
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Community Engage",
+              "value": 80
+            },
+            {
+              "name": "Education",
+              "value": 10
+            },
+            {
+              "name": "Social Equity",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 80
+            },
+            {
+              "name": "Volunteering",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-17",
+              "value": 30
+            },
+            {
+              "name": "SDG-11",
+              "value": 40
+            },
+            {
+              "name": "SDG-4",
+              "value": 20
+            },
+            {
+              "name": "SDG-3",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Social Groups",
+              "value": 70
+            },
+            {
+              "name": "Youth and Students",
+              "value": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Energy",
+              "value": 25
+            },
+            {
+              "name": "Businesses",
+              "value": 75
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 75
+            },
+            {
+              "name": "Collaboration",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 25
+            },
+            {
+              "name": "SDG-17",
+              "value": 75
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Professionals",
+              "value": 25
+            },
+            {
+              "name": "Corporations",
+              "value": 25
+            },
+            {
+              "name": "SMEs",
+              "value": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Finance",
+              "value": 33.3
+            },
+            {
+              "name": "Climate Action",
+              "value": 16.7
+            },
+            {
+              "name": "Circular Economy",
+              "value": 16.7
+            },
+            {
+              "name": "Businesses",
+              "value": 16.7
+            },
+            {
+              "name": "Biodiversity",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 66.6
+            },
+            {
+              "name": "Advocacy",
+              "value": 16.7
+            },
+            {
+              "name": "Capacity-building",
+              "value": 16.7
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-8",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-13",
+              "value": 50
+            },
+            {
+              "name": "SDG-12",
+              "value": 16.7
+            },
+            {
+              "name": "SDG-6",
+              "value": 16.6
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 66.6
+            },
+            {
+              "name": "Corporations",
+              "value": 16.7
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 16.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UK",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Businesses",
+              "value": 30
+            },
+            {
+              "name": "Finance",
+              "value": 10
+            },
+            {
+              "name": "Biodiversity",
+              "value": 10
+            },
+            {
+              "name": "Climate Action",
+              "value": 10
+            },
+            {
+              "name": "SD",
+              "value": 10
+            },
+            {
+              "name": "Infrastructure",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Policy advocacy",
+              "value": 20
+            },
+            {
+              "name": "Capacity-building",
+              "value": 60
+            },
+            {
+              "name": "Collaboration",
+              "value": 10
+            },
+            {
+              "name": "Sponsorship",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-9",
+              "value": 10
+            },
+            {
+              "name": "SDG-11",
+              "value": 40
+            },
+            {
+              "name": "SDG-13",
+              "value": 20
+            },
+            {
+              "name": "SDG-17",
+              "value": 20
+            },
+            {
+              "name": "SDG-4",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "SMEs",
+              "value": 30
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 20
+            },
+            {
+              "name": "Corporations",
+              "value": 30
+            },
+            {
+              "name": "Citizens",
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ukrain",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Social Equity",
+              "value": 44.5
+            },
+            {
+              "name": "DEI",
+              "value": 11.1
+            },
+            {
+              "name": "Education",
+              "value": 22.2
+            },
+            {
+              "name": "Businesses",
+              "value": 22.2
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 77.8
+            },
+            {
+              "name": "Procurement",
+              "value": 22.2
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-5",
+              "value": 55.6
+            },
+            {
+              "name": "SDG-8",
+              "value": 33.3
+            },
+            {
+              "name": "SDG-4",
+              "value": 11.1
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Gender Groups",
+              "value": 55.6
+            },
+            {
+              "name": "Youth and Students",
+              "value": 22.2
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 11.1
+            },
+            {
+              "name": "SMEs",
+              "value": 11.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Climate Action",
+              "value": 18.2
+            },
+            {
+              "name": "DEI",
+              "value": 9.1
+            },
+            {
+              "name": "Public Policy",
+              "value": 18.2
+            },
+            {
+              "name": "Recognition",
+              "value": 36.3
+            },
+            {
+              "name": "Social Equity",
+              "value": 9.1
+            },
+            {
+              "name": "Technology",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Partnerships",
+              "value": 18.2
+            },
+            {
+              "name": "Capacity-building",
+              "value": 27.3
+            },
+            {
+              "name": "Advocacy",
+              "value": 27.2
+            },
+            {
+              "name": "Collaboration",
+              "value": 9.1
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 18.2
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-17",
+              "value": 45.4
+            },
+            {
+              "name": "SDG-10",
+              "value": 9.1
+            },
+            {
+              "name": "SDG-13",
+              "value": 18.2
+            },
+            {
+              "name": "SDG-12",
+              "value": 9.1
+            },
+            {
+              "name": "SDG-5",
+              "value": 9.1
+            },
+            {
+              "name": "SDG-16",
+              "value": 9.1
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 36.4
+            },
+            {
+              "name": "Corporations",
+              "value": 36.3
+            },
+            {
+              "name": "SMEs",
+              "value": 9.1
+            },
+            {
+              "name": "Gender Groups",
+              "value": 9.1
+            },
+            {
+              "name": "Entrepreneurs",
+              "value": 9.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Energy",
+              "value": 18.8
+            },
+            {
+              "name": "Climate Action",
+              "value": 37.5
+            },
+            {
+              "name": "Circular Economy",
+              "value": 6.2
+            },
+            {
+              "name": "Businesses",
+              "value": 18.8
+            },
+            {
+              "name": "Education",
+              "value": 18.7
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 62.5
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 6.3
+            },
+            {
+              "name": "Advocacy",
+              "value": 6.2
+            },
+            {
+              "name": "R&D",
+              "value": 12.5
+            },
+            {
+              "name": "Collaboration",
+              "value": 12.5
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-13",
+              "value": 62.5
+            },
+            {
+              "name": "SDG-12",
+              "value": 18.8
+            },
+            {
+              "name": "SDG-7",
+              "value": 12.5
+            },
+            {
+              "name": "SDG-17",
+              "value": 6.2
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Governing Bodies",
+              "value": 18.8
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 37.5
+            },
+            {
+              "name": "Corporations",
+              "value": 18.7
+            },
+            {
+              "name": "Citizens",
+              "value": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "SD",
+              "value": 10
+            },
+            {
+              "name": "Community Engage",
+              "value": 10
+            },
+            {
+              "name": "Recognition",
+              "value": 10
+            },
+            {
+              "name": "Education",
+              "value": 10
+            },
+            {
+              "name": "Social Equity",
+              "value": 10
+            },
+            {
+              "name": "Businesses",
+              "value": 20
+            },
+            {
+              "name": "Agriculture",
+              "value": 10
+            },
+            {
+              "name": "DEI",
+              "value": 10
+            },
+            {
+              "name": "Biodiversity",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 70
+            },
+            {
+              "name": "Certification",
+              "value": 10
+            },
+            {
+              "name": "Direct service",
+              "value": 10
+            },
+            {
+              "name": "R&D",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-4",
+              "value": 20
+            },
+            {
+              "name": "SDG-11",
+              "value": 10
+            },
+            {
+              "name": "SDG-12",
+              "value": 10
+            },
+            {
+              "name": "SDG-8",
+              "value": 10
+            },
+            {
+              "name": "SDG-5",
+              "value": 20
+            },
+            {
+              "name": "SDG-3",
+              "value": 10
+            },
+            {
+              "name": "SDG-14",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Youth and Students",
+              "value": 20
+            },
+            {
+              "name": "Corporations",
+              "value": 10
+            },
+            {
+              "name": "SMEs",
+              "value": 10
+            },
+            {
+              "name": "Gender Groups",
+              "value": 20
+            },
+            {
+              "name": "Citizens",
+              "value": 20
+            },
+            {
+              "name": "Enviro & Agri",
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WBCSD",
+      "children": [
+        {
+          "name": "Theme",
+          "children": [
+            {
+              "name": "Agriculture",
+              "value": 25
+            },
+            {
+              "name": "Biodiversity",
+              "value": 8.4
+            },
+            {
+              "name": "Businesses",
+              "value": 33.3
+            },
+            {
+              "name": "Education",
+              "value": 8.3
+            },
+            {
+              "name": "Climate Action",
+              "value": 16.7
+            },
+            {
+              "name": "Energy",
+              "value": 8.3
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Capacity-building",
+              "value": 41.7
+            },
+            {
+              "name": "Policy advocacy",
+              "value": 41.7
+            },
+            {
+              "name": "Policy Advocacy",
+              "value": 8.3
+            },
+            {
+              "name": "R&D",
+              "value": 8.3
+            }
+          ]
+        },
+        {
+          "name": "SDG",
+          "children": [
+            {
+              "name": "SDG-15",
+              "value": 25
+            },
+            {
+              "name": "SDG-13",
+              "value": 33.3
+            },
+            {
+              "name": "SDG-4",
+              "value": 8.4
+            },
+            {
+              "name": "SDG-2",
+              "value": 8.3
+            },
+            {
+              "name": "SDG-12",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "Beneficiary",
+          "children": [
+            {
+              "name": "Enviro & Agri",
+              "value": 25
+            },
+            {
+              "name": "Corporations",
+              "value": 58.4
+            },
+            {
+              "name": "SMEs",
+              "value": 8.3
+            },
+            {
+              "name": "Governing Bodies",
+              "value": 8.3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
